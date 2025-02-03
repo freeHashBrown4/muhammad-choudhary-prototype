@@ -40,9 +40,9 @@ The following are the top five new desirable functionalites that are not seen in
 
 
 # Final Prototype
-![Final Prototype](./final_prototype)
+![Final Prototype](./final_prototype.png)
 
 # Navigation of Final Prototype
-![Navigation Final Prototype](./navigation_prototype)
+![Navigation Final Prototype](./navigation_prototype.png)
 
 
