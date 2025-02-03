@@ -10,7 +10,7 @@ I will also help students to stay productive because they can easily use their p
 
 - [Link to Figma Design](https://www.figma.com/design/n3NwHRDDveASKrujJTzNQC/muhammad_choudhary_a2?t=ZMSvRxJQR359DqDh-1)
 - [Link to Github Repository](https://github.com/freeHashBrown4/muhammad-choudhary-prototype)
-- [Link to Youtube Demo](https://youtu.be/WEOrJ9kabA4)
+- [Link to Youtube Demo](https://youtu.be/OT2PM5JJ2P8)
 
 
 
